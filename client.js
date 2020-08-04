@@ -1,4 +1,4 @@
-const API_URL = "http://5.2.255.164:25567/mews";
+const API_URL = "https://5.2.255.164:25567/mews";
 
 const form = document.querySelector('form');
 const loadingElement = document.querySelector('.loading');
