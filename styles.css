@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+}
+
+.loading, .mew-form, .mews, .error {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading, .error, .show-more {
+    text-align: center;
+}
+
+.show-more {
+    margin: 0 auto;
+    align-self: center;
+}
+
+.error {
+    color: red;
+}
+
+
+
